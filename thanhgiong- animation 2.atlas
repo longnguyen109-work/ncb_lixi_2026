@@ -1,0 +1,102 @@
+thanhgiong- animation 2.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.2
+Body Thanh Giong
+bounds:1557,1841,185,192
+back
+bounds:0,612,563,697
+body light sweep 1
+bounds:1339,1566,133,79
+body light sweep 2
+bounds:1742,1823,133,79
+body light sweep 3
+bounds:563,620,133,79
+body light sweep 4
+bounds:753,948,133,79
+rotate:90
+cang chan 2
+bounds:579,503,113,117
+cangchan
+bounds:1348,1435,128,131
+caytre
+bounds:0,466,475,146
+chan sau1
+bounds:0,0,100,190
+rotate:90
+chan sau2
+bounds:475,475,104,137
+chan truoc
+bounds:1229,1403,119,151
+chan truoc2
+bounds:361,295,104,171
+detail
+bounds:0,1309,879,724
+eye glow
+bounds:992,1247,64,64
+offsets:0,0,65,65
+head horse
+bounds:199,291,162,175
+horse sweep 1
+bounds:900,1239,92,72
+horse sweep 2
+bounds:832,1106,92,72
+rotate:90
+horse sweep 3
+bounds:832,1014,92,72
+rotate:90
+horse sweep 4
+bounds:676,711,95,72
+rotate:90
+horse sweep 5
+bounds:747,837,111,72
+rotate:90
+long duoi
+bounds:563,699,272,113
+rotate:90
+long hat
+bounds:1472,1576,69,89
+rotate:90
+lua 1
+bounds:1348,1406,55,29
+lua 10
+bounds:0,100,199,172
+lua 11
+bounds:199,127,143,164
+lua 12
+bounds:1059,1267,131,133
+rotate:90
+lua 2
+bounds:1192,1294,104,43
+rotate:90
+lua 3
+bounds:879,1311,180,87
+lua 4
+bounds:1935,1839,194,113
+rotate:90
+lua 5
+bounds:1742,1902,193,131
+lua 6
+bounds:1339,1645,208,171
+lua 7
+bounds:1339,1816,218,217
+lua 9
+bounds:0,272,199,194
+mat thanh giong
+bounds:199,107,39,20
+may ngoai 1
+bounds:563,971,338,190
+rotate:90
+may ngoai 2
+bounds:676,806,165,71
+rotate:90
+may trong 1
+bounds:753,1081,228,79
+rotate:90
+may trong 2
+bounds:879,1398,350,156
+tay
+bounds:832,1198,68,111
+than ngua
+bounds:879,1554,460,479
